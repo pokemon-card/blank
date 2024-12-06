@@ -1,0 +1,35 @@
+{
+    "name": "ROMS",
+    "consoles": [
+        {
+            "name": "NINTENDO 64",
+            "folder": "Nintendo 64",
+            "core": "n64"
+        },
+        {
+            "name": "NINTENDO DS",
+            "folder": "Nintendo DS",
+            "core": "nds"
+        },
+        {
+            "name": "NINTENDO GAME BOY ADVANCE",
+            "folder": "Nintendo Game Boy Advance",
+            "core": "gba"
+        },
+        {
+            "name": "SEGA GENESIS",
+            "folder": "Sega Genesis",
+            "core": "segaMD"
+        },
+        {
+            "name": "SEGA MASTER SYSTEM",
+            "folder": "Sega Master System",
+            "core": "segaMS"
+        },
+        {
+            "name": "SUPER NINTENDO ENTERTAINMENT SYSTEM",
+            "folder": "Super Nintendo Entertainment System",
+            "core": "snes"
+        }
+    ]
+}
