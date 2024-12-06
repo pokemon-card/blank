@@ -1,16 +1,16 @@
 {
     "games": [
         {
+            "title": "Sonic Advance",
+            "file": "Sonic Advance.gba"
+        },
+        {
             "title": "Sonic Advance 2",
             "file": "Sonic Advance 2.gba"
         },
         {
             "title": "Sonic Advance 3",
             "file": "Sonic Advance 3.gba"
-        },
-        {
-            "title": "Sonic Advance",
-            "file": "Sonic Advance.gba"
         },
         {
             "title": "Sonic Battle",

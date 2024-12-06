@@ -1,16 +1,16 @@
 {
     "games": [
         {
-            "title": "Donkey Kong Country 2 - Diddy's Kong Quest",
+            "title": "Donkey Kong Country",
+            "file": "Donkey Kong Country.sfc"
+        },
+        {
+            "title": "Donkey Kong Country",
             "file": "Donkey Kong Country 2 - Diddy's Kong Quest.sfc"
         },
         {
             "title": "Donkey Kong Country 3 - Dixie Kong's Double Trouble!",
             "file": "Donkey Kong Country 3 - Dixie Kong's Double Trouble!.sfc"
-        },
-        {
-            "title": "Donkey Kong Country",
-            "file": "Donkey Kong Country.sfc"
         },
         {
             "title": "Super Mario World",
