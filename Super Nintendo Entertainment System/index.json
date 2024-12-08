@@ -1,0 +1,49 @@
+{
+    "games": [
+        {
+            "title": "Chrono Trigger",
+            "file": "Chrono Trigger.sfc"
+        },
+        {
+            "title": "Donkey Kong Country",
+            "file": "Donkey Kong Country.sfc"
+        },
+        {
+            "title": "Donkey Kong Country 2: Diddy's Kong Quest",
+            "file": "Donkey Kong Country 2: Diddy's Kong Quest.sfc"
+        },
+        {
+            "title": "Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+            "file": "Donkey Kong Country 3: Dixie Kong's Double Trouble!.sfc"
+        },
+        {
+            "title": "Earthbound",
+            "file": "EarthBound.sfc"
+        },
+        {
+            "title": "F-Zero",
+            "file": "F-Zero.sfc"
+        },
+        {
+            "title": "Kirby's Dream Course",
+            "file": "Kirby's Dream Course.sfc"
+        },
+        {
+            "title": "Kirby's Dream Land 3",
+            "file": "Kirby's Dream Land 3.sfc"
+        },
+        {
+            "title": "Super Mario RPG: Legend Of The Seven Stars",
+            "file": "Super Mario RPG: Legend of the Seven Stars.sfc"
+        },
+        {
+            "title": "Super Mario World",
+            "file": "Super Mario World.sfc"
+        },
+        {
+            "title": "The Legend Of Zelda: A Link To The Past",
+            "file": "The Legend of Zelda: A Link to the Past.sfc"
+        }
+    ],
+    "core": "snes"
+}

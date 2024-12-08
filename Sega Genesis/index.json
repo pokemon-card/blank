@@ -1,0 +1,41 @@
+{
+    "games": [
+        {
+            "title": "Metal Sonic Rebooted",
+            "file": "Metal Sonic Rebooted.bin"
+        },
+        {
+            "title": "Robotnik's Revenge",
+            "file": "Robotnik's Revenge.bin"
+        },
+        {
+            "title": "Sonic 3 & Knuckles",
+            "file": "Sonic 3 & Knuckles.bin"
+        },
+        {
+            "title": "Sonic 3 Complete",
+            "file": "Sonic 3 Complete.gen"
+        },
+        {
+            "title": "Sonic 3D Blast",
+            "file": "Sonic 3D Blast.bin"
+        },
+        {
+            "title": "Sonic Classic Heroes",
+            "file": "Sonic Classic Heroes.bin"
+        },
+        {
+            "title": "Sonic The Hedgehog",
+            "file": "Sonic The Hedgehog.bin"
+        },
+        {
+            "title": "Sonic The Hedgehog 2",
+            "file": "Sonic The Hedgehog 2.bin"
+        },
+        {
+            "title": "Sonic VR",
+            "file": "Sonic VR.bin"
+        }
+    ],
+    "core": "segaMD"
+}

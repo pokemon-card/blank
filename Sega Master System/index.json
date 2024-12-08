@@ -1,0 +1,21 @@
+{
+    "games": [
+        {
+            "title": "Sonic Chaos",
+            "file": "Sonic Chaos.sms"
+        },
+        {
+            "title": "Sonic The Hedgehog Master System",
+            "file": "Sonic The Hedgehog Master System.sms"
+        },
+        {
+            "title": "Sonic The Hedgehog 2 Master System",
+            "file": "Sonic The Hedgehog 2 Master System.sms"
+        },
+        {
+            "title": "Sonic Triple Trouble",
+            "file": "Sonic Triple Trouble.sms"
+        }
+    ],
+    "core": "segaMS"
+}

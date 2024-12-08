@@ -1,0 +1,73 @@
+{
+    "games": [
+        {
+            "title": "Banjo-Kazooie",
+            "file": "Banjo-Kazooie.z64"
+        },
+        {
+            "title": "Banjo-Tooie",
+            "file": "Banjo-Tooie.z64"
+        },
+        {
+            "title": "Diddy Kong Racing",
+            "file": "Diddy Kong Racing.z64"
+        },
+        {
+            "title": "Donkey Kong 64",
+            "file": "Donkey Kong 64.z64"
+        },
+        {
+            "title": "Kirby 64: The Crystal Shards",
+            "file": "Kirby 64 - The Crystal Shards.z64"
+        },
+        {
+            "title": "The Legend of Zelda: Ocarina of Time",
+            "file": "The Legend of Zelda - Ocarina of Time.z64"
+        },
+        {
+            "title": "The Legend of Zelda: Majora's Mask",
+            "file": "The Legend of Zelda - Majora's Mask.z64"
+        },
+        {
+            "title": "Mario Kart 64",
+            "file": "Mario Kart 64.z64"
+        },
+        {
+            "title": "Mario Party",
+            "file": "Mario Party.z64"
+        },
+        {
+            "title": "Mario Party 2",
+            "file": "Mario Party 2.z64"
+        },
+        {
+            "title": "Paper Mario",
+            "file": "Paper Mario.z64"
+        },
+        {
+            "title": "Pokemon Snap",
+            "file": "Pokemon Snap.z64"
+        },
+        {
+            "title": "Pokemon Stadium",
+            "file": "Pokemon Stadium.z64"
+        },
+        {
+            "title": "Pokemon Stadium 2",
+            "file": "Pokemon Stadium 2.z64"
+        },
+        {
+            "title": "Rayman 2: The Great Escape",
+            "file": "Rayman 2 - The Great Escape.z64"
+        },
+        {
+            "title": "Super Mario 64",
+            "file": "Super Mario 64.z64"
+        },
+        {
+            "title": "Yoshi's Story",
+            "file": "Yoshi's Story.z64"
+        }
+    ],
+    "core": "n64"
+}

@@ -1,0 +1,45 @@
+{
+    "games": [
+        {
+            "title": "Kirby: Nightmare In Dream Land",
+            "file": "Kirby - Nightmare in Dream Land.gba"
+        },
+        {
+            "title": "Mario & Luigi: Superstar Saga",
+            "file": "Mario & Luigi - Superstar Saga.gba"
+        },
+        {
+            "title": "Pokemon Emerald",
+            "file": "Pokemon Emerald.gba"
+        },
+        {
+            "title": "Pokemon Firered",
+            "file": "Pokemon FireRed.gba"
+        },
+        {
+            "title": "Pokemon Ruby",
+            "file": "Pokemon Ruby.gba"
+        },
+        {
+            "title": "Pokemon Sapphire",
+            "file": "Pokemon Sapphire.gba"
+        },
+        {
+            "title": "Sonic Advance",
+            "file": "Sonic Advance.gba"
+        },
+        {
+            "title": "Sonic Advance 2",
+            "file": "Sonic Advance 2.gba"
+        },
+        {
+            "title": "Sonic Advance 3",
+            "file": "Sonic Advance 3.gba"
+        },
+        {
+            "title": "Sonic Battle",
+            "file": "Sonic Battle.gba"
+        }
+    ],
+    "core": "gba"
+}

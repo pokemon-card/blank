@@ -1,0 +1,21 @@
+{
+    "games": [
+        {
+            "title": "Mario Kart DS",
+            "file": "Mario Kart DS.nds"
+        },
+        {
+            "title": "Sonic Rush",
+            "file": "Sonic Rush.nds"
+        },
+        {
+            "title": "Super Mario 64 DS",
+            "file": "Super Mario 64 DS.nds"
+        },
+        {
+            "title": "Yoshi's Island DS",
+            "file": "Yoshi's Island DS.nds"
+        }
+    ],
+    "core": "nds"
+}

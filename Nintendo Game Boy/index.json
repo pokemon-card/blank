@@ -1,0 +1,17 @@
+{
+    "games": [
+        {
+            "title": "Donkey Kong",
+            "file": "Donkey Kong.gb"
+        },
+        {
+            "title": "Kirby's Dream Land",
+            "file": "Kirby's Dream Land.gb"
+        },
+        {
+            "title": "Kirby's Dream Land 2",
+            "file": "Kirby's Dream Land 2.gb"
+        }
+    ],
+    "core": "gb"
+}
