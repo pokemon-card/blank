@@ -14,7 +14,7 @@
         {
             "name": "NINTENDO GAME BOY",
             "folder": "Nintendo Game Boy",
-            "core": "gb"
+            "core": "mgba"
         },
         {
             "name": "NINTENDO GAME BOY ADVANCE",
