@@ -23,6 +23,10 @@
         {
             "title": "Tetris",
             "file": "Tetris.gb"
+        },
+        {
+            "title": "The Legend Of Zelda: Link's Awakening",
+            "file": "The Legend of Zelda - Link's Awakening.gbc"
         }
     ],
     "core": "mgba"

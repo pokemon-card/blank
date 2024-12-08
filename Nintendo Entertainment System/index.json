@@ -1,0 +1,25 @@
+{
+    "games": [
+        {
+            "title": "Mario Bros.",
+            "file": "Mario Bros.nes"
+        },
+        {
+            "title": "Super Mario Bros.",
+            "file": "Super Mario Bros.nes"
+        },
+        {
+            "title": "Super Mario Bros. 2",
+            "file": "Super Mario Bros. 2.nes"
+        },
+        {
+            "title": "Super Mario Bros. 3",
+            "file": "Super Mario Bros. 3.nes"
+        },
+        {
+            "title": "The Legend Of Zelda",
+            "file": "The Legend of Zelda.nes"
+        }
+    ],
+    "core": "nestopia"
+}

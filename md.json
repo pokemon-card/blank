@@ -12,6 +12,11 @@
             "core": "nds"
         },
         {
+            "name": "NINTENDO ENTERTAINMENT SYSTEM",
+            "folder": "Nintendo Entertainment System",
+            "core": "nestopia"
+        },
+        {
             "name": "NINTENDO GAME BOY",
             "folder": "Nintendo Game Boy",
             "core": "mgba"
