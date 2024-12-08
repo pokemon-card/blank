@@ -21,14 +21,6 @@
             "file": "Kirby 64 - The Crystal Shards.z64"
         },
         {
-            "title": "The Legend of Zelda: Ocarina of Time",
-            "file": "The Legend of Zelda - Ocarina of Time.z64"
-        },
-        {
-            "title": "The Legend of Zelda: Majora's Mask",
-            "file": "The Legend of Zelda - Majora's Mask.z64"
-        },
-        {
             "title": "Mario Kart 64",
             "file": "Mario Kart 64.z64"
         },
@@ -63,6 +55,14 @@
         {
             "title": "Super Mario 64",
             "file": "Super Mario 64.z64"
+        },
+        {
+            "title": "The Legend Of Zelda: Ocarina of Time",
+            "file": "The Legend of Zelda - Ocarina of Time.z64"
+        },
+        {
+            "title": "The Legend Of Zelda: Majora's Mask",
+            "file": "The Legend of Zelda - Majora's Mask.z64"
         },
         {
             "title": "Yoshi's Story",

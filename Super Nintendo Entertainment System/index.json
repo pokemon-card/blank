@@ -10,11 +10,11 @@
         },
         {
             "title": "Donkey Kong Country 2: Diddy's Kong Quest",
-            "file": "Donkey Kong Country 2: Diddy's Kong Quest.sfc"
+            "file": "Donkey Kong Country 2 - Diddy's Kong Quest.sfc"
         },
         {
             "title": "Donkey Kong Country 3: Dixie Kong's Double Trouble!",
-            "file": "Donkey Kong Country 3: Dixie Kong's Double Trouble!.sfc"
+            "file": "Donkey Kong Country 3 - Dixie Kong's Double Trouble!.sfc"
         },
         {
             "title": "Earthbound",
@@ -33,8 +33,12 @@
             "file": "Kirby's Dream Land 3.sfc"
         },
         {
+            "title": "Super Mario Kart",
+            "file": "Super Mario Kart.sfc"
+        },
+        {
             "title": "Super Mario RPG: Legend Of The Seven Stars",
-            "file": "Super Mario RPG: Legend of the Seven Stars.sfc"
+            "file": "Super Mario RPG - Legend of the Seven Stars.sfc"
         },
         {
             "title": "Super Mario World",
@@ -42,7 +46,7 @@
         },
         {
             "title": "The Legend Of Zelda: A Link To The Past",
-            "file": "The Legend of Zelda: A Link to the Past.sfc"
+            "file": "The Legend of Zelda - A Link to the Past.sfc"
         }
     ],
     "core": "snes"
