@@ -12,6 +12,11 @@
             "core": "nds"
         },
         {
+            "name": "SEGA CD",
+            "folder": "Sega CD",
+            "core": "segaCD"
+        },
+        {
             "name": "NINTENDO ENTERTAINMENT SYSTEM",
             "folder": "Nintendo Entertainment System",
             "core": "nestopia"
