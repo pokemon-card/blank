@@ -27,6 +27,11 @@
             "core": "gba"
         },
         {
+            "name": "SONY PLAYSTATION 1",
+            "folder": "Sony Playstation 1",
+            "core": "psx"
+        },
+        {
             "name": "SEGA GENESIS",
             "folder": "Sega Genesis",
             "core": "segaMD"
