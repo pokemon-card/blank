@@ -2,7 +2,7 @@
     "games": [
         {
             "title": "Sonic CD",
-            "file": "Sonic CD.tar.gz"
+            "file": "Sonic_CD.zip"
         },
     ],
     "core": "segaCD"
