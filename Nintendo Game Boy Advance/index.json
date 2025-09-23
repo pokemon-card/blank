@@ -9,7 +9,11 @@
             "file": "Mario & Luigi - Superstar Saga.gba"
         },
         {
-			"title": "EarthBound 2",
+            "title": "Mario vs. Donkey Kong",
+            "file": "Mario vs. Donkey Kong.gba"
+        },
+        {
+            "title": "EarthBound 2",
             "file": "Mother 3.gba"
         },
         {
@@ -44,6 +48,10 @@
             "title": "Sonic Battle",
             "file": "Sonic Battle.gba"
         }
+        {
+            "title": "The Legend of Zelda: The Minish Cap",
+            "file": "The Legend of Zelda - The Minish Cap.gba"
+        },
     ],
     "core": "gba"
 }

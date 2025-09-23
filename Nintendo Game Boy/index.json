@@ -28,6 +28,14 @@
             "title": "The Legend Of Zelda: Link's Awakening",
             "file": "The Legend of Zelda - Link's Awakening.gbc"
         }
+        {
+            "title": "The Legend of Zelda - Oracle of Ages",
+            "file": "The Legend of Zelda - Oracle of Ages.gbc"
+        }
+        {
+            "title": "The Legend of Zelda - Oracle of Seasons",
+            "file": "The Legend of Zelda - Oracle of Seasons.gbc"
+        }
     ],
     "core": "mgba"
 }

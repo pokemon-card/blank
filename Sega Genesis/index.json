@@ -1,6 +1,14 @@
 {
     "games": [
         {
+            "title": "Earthworm Jim",
+            "file": "Earthworm Jim.bin"
+        },
+        {
+            "title": "Gunstar Heroes",
+            "file": "Gunstar Heroes.bin"
+        },
+        {
             "title": "Metal Sonic Rebooted",
             "file": "Metal Sonic Rebooted.bin"
         },
@@ -40,6 +48,14 @@
             "title": "Sonic VR",
             "file": "Sonic VR.bin"
         }
+        {
+            "title": "ToeJam & Earl",
+            "file": "ToeJam & Earl.bin"
+        },
+        {
+            "title": "Vectorman",
+            "file": "Vectorman.bin"
+        },
     ],
     "core": "segaMD"
 }
