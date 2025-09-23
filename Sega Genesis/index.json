@@ -47,7 +47,7 @@
         {
             "title": "Sonic VR",
             "file": "Sonic VR.bin"
-        }
+        },
         {
             "title": "ToeJam & Earl",
             "file": "ToeJam & Earl.bin"
@@ -55,7 +55,7 @@
         {
             "title": "Vectorman",
             "file": "Vectorman.bin"
-        },
+        }
     ],
     "core": "segaMD"
 }
