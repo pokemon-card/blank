@@ -2,7 +2,7 @@
     "games": [
         {
             "title": "Sonic CD",
-            "file": "sonic-cd-usa-smaller-size-2.zip"
+            "file": "sonic-cd-usa-smaller-size.zip"
         }
     ],
     "core": "segaCD"
