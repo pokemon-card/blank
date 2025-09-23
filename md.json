@@ -34,7 +34,7 @@
         {
             "name": "SONY PLAYSTATION 1",
             "folder": "Sony Playstation 1",
-            "core": "mednafen_psx_hw"
+            "core": "psx"
         },
         {
             "name": "SEGA GENESIS",
