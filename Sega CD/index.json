@@ -3,7 +3,7 @@
         {
             "title": "Sonic CD",
             "file": "Sonic_CD.zip"
-        },
+        }
     ],
     "core": "segaCD"
 }
