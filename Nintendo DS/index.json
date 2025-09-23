@@ -2,11 +2,11 @@
     "games": [
         {
             "title": "Kirby Super Star Ultra",
-            "file": "Kirby Super Star Ultra.nds"
+            "file": "Kirby Super Star Ultra.zip"
         },
         {
-            "title": "Mario & Luigi: Bowser's Inside Story.nds",
-            "file": "Mario & Luigi Bowser's Inside Story.nds"
+            "title": "Mario & Luigi: Bowser's Inside Story",
+            "file": "Mario & Luigi Bowser's Inside Story.zip"
         },
         {
             "title": "Mario Kart DS",
@@ -14,12 +14,8 @@
         },
         {
             "title": "Pokemon Platinum",
-            "file": "Pokemon Platinum.nds"
+            "file": "Pokemon Platinum.zip"
         },		
-        {
-            "title": "Pokemon SoulSilver",
-            "file": "Pokemon SoulSilver.nds"
-        },
         {
             "title": "Pokemon SoulSilver",
             "file": "Pokemon SoulSilver.zip"
