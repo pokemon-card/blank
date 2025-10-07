@@ -2,7 +2,7 @@
     "games": [
         {
             "title": "Sonic CD",
-            "file": "http://www.allsonicgames.net/roms/sonic-cd-usa-smaller-size.zip"
+            "file": "sonic-cd.url"
         }
     ],
     "core": "segaCD"
